@@ -1,7 +1,5 @@
 # nx-links
 
-![update_files](https://github.com/HamletDuFromage/nx-links/workflows/update_files/badge.svg)
+Scripts to fetch links used by [FairTech-AIO-Updater](https://github.com/Fair-Tech/FairTech-AIO-Updater)
 
-Scripts to fetch links used by [AiO-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater)
-
-Thanks to Team Neptune for their scripts serving as the base to mine
+Thanks to Team Neptune, and HamletDuFromage for their scripts serving as the base to mine
