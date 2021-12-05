@@ -14,10 +14,10 @@ class Cfws(BaseModule):
             },
             {
                 "service": 1,
-                "username": "Team-Neptune",
-                "reponame": "DeepSea",
+                "username": "Fair-Tech",
+                "reponame": "FairTech-AIO-Switch",
                 "assetRegex": "",
-                "assetPatterns": [".*deepsea.*\\.zip"]
+                "assetPatterns": [".*FairTech.*\\.zip"]
             }
         ]
         BaseModule.__init__(self)
