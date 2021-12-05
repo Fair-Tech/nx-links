@@ -30,7 +30,7 @@ jobs:
     - name: push changes
       run: |
         git config --global user.name 'Fair-Tech'
-        git config --global user.email 'admin@fairtech.us'
+        git config --global user.email 'Nick@fairtech.us'
         CHANGED=$(git diff --name-only)  
         git add .
         if [[ `git status --porcelain` ]]; then
